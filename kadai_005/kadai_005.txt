@@ -1,0 +1,12 @@
+PS C:\Users\tmfya\OneDrive\デスクトップ\terakoya用\git_challenge> git log
+commit a99430515bc5ec399cbdb873d3e76cc281c61b0d (HEAD -> main)
+Author: mfyauu <tmfyauu@gmail.com>
+Date:   Sun Sep 1 19:54:17 2024 +0900
+
+    日本語訳を追記
+
+commit 307cd5b9672bdd5f7549f34a7a89e3291beb2a71
+Author: mfyauu <tmfyauu@gmail.com>
+Date:   Sun Sep 1 19:53:07 2024 +0900
+
+    hell_world.txtを作成
